@@ -7,9 +7,9 @@ como um lego, você ira utilizar peças para criar algoritmos, ou seja, para res
 
 ## Peças de uma linguagem
 
-- (x)Comentários
+- [x] Comentários
 - Declaração de variáveis 
-- Operadores (atribuição, concatentação, matemáticos, lógicos)
+- Operadores (atribuição, contatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (funtions, object, array)
 - Controle de fluxo (if/else)
@@ -23,15 +23,35 @@ como um lego, você ira utilizar peças para criar algoritmos, ou seja, para res
 
 ## Escopos e variáveis
 
-- Variáveis locais e globais 
-- Constantes
+- [X] Variáveis locais e globais 
+- [X] Constantes
 
 ## Tipos de dados 
 
-- Strings (textos); "" '' ´´
-- Number 1 2,7
-- Function
+- [x] Strings (textos); "" '' ´´
+- [x] Number 1 2.7
+- [x] Boolean, true, false
+
 
 ## Operadores 
 
-- Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor =
+- [x] Operador de contatenação +
+
+## Estrututa de dados:
+
+### Arrays:
+
+- [x] uma lista que contém qualquer tipo de dado
+
+### Objetos;
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso e propriedades de objetos 
+
+### Functions 
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / named function
